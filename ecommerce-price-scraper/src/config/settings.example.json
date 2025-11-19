@@ -1,0 +1,5 @@
+{
+ "user_agent": "Mozilla/5.0 (compatible; PriceScraper/1.0)",
+ "timeout": 10,
+ "use_selenium": false
+}
